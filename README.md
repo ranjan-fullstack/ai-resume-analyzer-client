@@ -60,4 +60,8 @@ Returns structured JSON including:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-resume-analyzer.git
+git clone https://github.com/your-username/ai-resume-analyzer-client.git
+
+application url:
+-----------------
+https://ai-resume-analyzer-client.vercel.app/
